@@ -1,4 +1,5 @@
 from app import app
+from admin import admin
 
 from transactions import transactions
 
